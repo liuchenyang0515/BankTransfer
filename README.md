@@ -1,1 +1,1 @@
-# BankTransfer
+# The main code directory:\app\src\main
